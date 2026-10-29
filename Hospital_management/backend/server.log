@@ -1,0 +1,5 @@
+
+> backend@1.0.0 start
+> node server.js
+
+Hospital management API running on http://localhost:3001
